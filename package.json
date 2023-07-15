@@ -1,8 +1,13 @@
 {
   "name": "onlyrevealcurrentfile",
   "displayName": "Only Reveal Current File",
+  "publisher": "lozog",
   "description": "Ensures that all folders in the Explorer view are collapsed, except for the active file's parent.",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lozog/only-reveal-current-file.git"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
