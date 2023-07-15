@@ -1,0 +1,11 @@
+node_modules/
+package-lock.json
+
+# Ignore built extension files
+out/
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore Windows specific files
+Thumbs.db
